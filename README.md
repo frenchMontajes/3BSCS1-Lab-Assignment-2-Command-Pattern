@@ -13,4 +13,5 @@ This project implements a flexible and scalable smart home automation system to 
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 ## UML DIAGRAM
-![Blank diagram](https://github.com/user-attachments/assets/6e0bb80b-cbdd-42b1-8c15-2b6f0a72f759)
+
+![Blank diagram (3)](https://github.com/user-attachments/assets/e0c71e54-7de1-4f88-9a49-045b9264b8cd)
